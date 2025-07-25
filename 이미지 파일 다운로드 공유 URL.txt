@@ -1,0 +1,5 @@
+** 이미지 파일 다운로드 공유 URL: 
+https://drive.google.com/drive/folders/1JY1feVOfgNgJNEBeLyU6d_xtOxAJ-OGu?usp=sharing
+
+※ 주피터노트북 자동완성기능 잘 안될때
+%config Completer.use_jedi = False 
